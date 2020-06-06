@@ -1,0 +1,222 @@
+.logo{
+    text-align: center;
+    margin-bottom:px !important;
+    margin-top: 10px !important;
+}
+ 
+ .nav-link,.navbar-text{
+     color: white !important;
+     margin-left:20px;
+     
+ }
+ .nav-link:hover{
+     text-decoration-line: underline;
+ }
+ .navbar-text{
+  font-size:17px;
+ }
+ h2{
+     text-align: center;
+     margin-top:30px;
+
+    font-weight: bold;
+    text-shadow: 2px 2px 4px gray;
+ }
+ .card{
+     margin-top: 30px;
+
+ }
+ .btn-primary{
+ background-color: darkslategrey;
+width:100%;
+ }
+ .mackup>h2,h4{
+     text-align: center;
+ }
+ h6,h4{
+     margin-top:30px !important;
+
+ }
+ .navbar-sticky{
+
+position: -webkit-sticky;
+position: sticky;
+top:0;
+z-index: 2;
+
+width: 100%;
+
+}
+.fa{
+    font-size:17px;
+}
+p1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.card{
+border:none;
+}
+.badge{
+    margin-top:30px;
+    margin-left: 30px;
+    background-color:	#DC143C;
+    font-weight: normal;
+}
+
+h3{
+    margin-top:50px;
+    font-size:20px;
+}
+//*@media only screen and (max-width: 700px) {
+    .col { 
+      display: block;
+      width: 100%;
+    }
+  }*//
+   .btn-dark{
+       float: right;
+   }
+   .footer-copyright{
+       height:50px;
+   }
+   h1{
+       margin-top: 100px !important;
+       font-size:23px;
+       font-family: sans-serif;
+   }
+   .pic{
+       margin-top: 40px !important;
+       border:solid 10px;
+    
+   }
+   .carddesign{
+       margin-top:-15px; 
+       font-family: 'Times New Roman' ;
+   }
+   .text-block {
+    position: absolute;
+      margin-left:-25px;
+    float: left;
+    top:-75px;  
+  }
+  .btn-info{
+      margin-left: 40px !important;
+      color:white;
+      background-color: black;
+      height:40px;
+      margin-top: 5px;
+  }
+  .pagination{
+    font-size:20px;
+    border:none !important;
+    padding:3px 5px 3px ;
+  }
+  .product{
+      margin-top:10px;
+      padding: 20px 30px 30px;
+      
+  }
+  .design{
+      
+      font-weight: normal;
+  }
+
+
+  .login-form {
+    width: 360px;
+    margin: 100px auto;
+}
+.login-form form {
+    margin-bottom: 15px;
+    padding: 25px;
+}
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.login-form h4{
+   margin-top:50px;
+    font-weight: bold;
+    
+
+    
+}
+.login-form .hint-text {
+    color: #777;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.form-control, .btn {
+    min-height: 40px;
+    border-radius: 2px;
+}
+.login-btn {        
+    font-size: 15px;
+    font-weight: bold;
+}
+.or-seperator {
+    margin: 20px 0 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+.or-seperator i {
+    padding: 0 10px;
+    background: #f7f7f7;
+    position: relative;
+    top: -15px;
+    z-index: 1;
+}
+.social-btn .btn {
+    margin: 10px 0;
+    font-size: 15px;
+    text-align: left; 
+    line-height: 24px;       
+}
+.social-btn .btn i {
+    float: left;
+    margin: 4px 15px  0 5px;
+    min-width: 15px;
+}
+.input-group-addon .fa{
+    font-size: 18px;
+}
+.login{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sign-up{
+    text-decoration: none !important;
+    color:#000;
+}
+
+legend{
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+
+.img-hover-zoom {
+
+    overflow: hidden; 
+  }
+  
+
+  .img-hover-zoom img {
+    transition: transform .5s ease;
+  }
+  
+
+  .img-hover-zoom:hover img {
+    transform: scale(1.1);
+  }
+  @media screen and (max-width: 768px) {
+   div.CATEGORIES {
+       display:none;
+          
+        
+    }
+  }
+
+ 
